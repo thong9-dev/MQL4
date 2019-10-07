@@ -1,0 +1,14 @@
+Break=1
+Spector=----------------------------------------
+InpMAPeriod=24
+InpMAShift=0
+InpMAMethod=0
+Spector2=----------------------------------------
+HilightSwapDir_bool=true
+HilightSwapDir_weight=2
+Spector3=----------------------------------------
+clrUP=6908265
+clrDW=6908265
+clrBR=16711935
+BreakSymbol=108
+BreakSymbol_weight=0

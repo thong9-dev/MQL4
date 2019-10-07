@@ -1,0 +1,365 @@
+0	00:00:00.344	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:00:00.350	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:00:00.362	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:00:00.362	Follower-X micro XM n 12 GBPUSDmicro,H1: uninit reason 2
+0	00:00:00.364	Expert Follower-X micro XM n 12 GBPUSDmicro,H1: removed
+0	00:00:00.376	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 GBPUSDmicro,H1: loaded successfully
+0	00:00:00.413	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:00:00.420	Follower-X micro XM n 12 GBPUSDmicro,H1: initialized
+0	00:00:07.958	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:00:07.960	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:00:07.972	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:00:07.972	Follower-X micro XM n 12 GBPUSDmicro,H1: uninit reason 2
+0	00:00:07.974	Expert Follower-X micro XM n 12 GBPUSDmicro,H1: removed
+0	00:00:07.985	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 GBPUSDmicro,H1: loaded successfully
+0	00:00:08.015	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:00:08.028	Follower-X micro XM n 12 GBPUSDmicro,H1: initialized
+0	00:02:41.355	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:02:41.357	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:02:41.369	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:02:41.369	Follower-X micro XM n 12 GBPUSDmicro,H1: uninit reason 2
+0	00:02:41.371	Expert Follower-X micro XM n 12 GBPUSDmicro,H1: removed
+0	00:02:41.383	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 GBPUSDmicro,H1: loaded successfully
+1	00:02:41.415	Follower-X micro XM n 12 USDJPY,H1: zero divide in 'Follower-X micro XM n 12.mq4' (1057,30)
+3	00:02:41.415	Follower-X micro XM n 12 USDJPY,H1: not initialized
+0	00:02:41.415	Follower-X micro XM n 12 USDJPY,H1: uninit reason 8
+0	00:02:41.418	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+1	00:02:41.428	Follower-X micro XM n 12 GBPUSDmicro,H1: zero divide in 'Follower-X micro XM n 12.mq4' (1057,30)
+3	00:02:41.430	Follower-X micro XM n 12 GBPUSDmicro,H1: not initialized
+0	00:02:41.430	Follower-X micro XM n 12 GBPUSDmicro,H1: uninit reason 8
+0	00:02:41.430	Expert Follower-X micro XM n 12 GBPUSDmicro,H1: removed
+0	00:16:07.548	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:16:08.513	Follower-X micro XM n 12 USDJPY,H1 inputs: exIsLastLoop=false; exMagicnumber=6666; exMagic_Mode=1; exLine0= ------------------------------------- ; exLotStart=0.01; exPointPending=200.0; exPoint_MA_Price=20.0; exPointMA=50.0; exLotRun=1; exLotFix=3.0; exSpreadLimt=70.0; exLine2= ------------------------------------- ; exProfitsPoint=50; exTimeClose=3.0; exLine3= ------------------------------------- ; exLotLimit=100000.0; exUseExitLoopB=false; exSlipepage=10; 
+0	00:16:08.557	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:18:15.408	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:18:15.410	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:18:15.422	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:18:15.471	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:21:05.454	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:21:05.456	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:21:05.468	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:21:05.513	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:23:07.402	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:23:07.404	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:23:07.415	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:23:07.458	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:25:22.465	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:25:22.467	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:25:22.479	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:25:22.524	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:30:48.144	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:30:48.146	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:30:48.158	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:30:48.205	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:31:09.654	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:31:09.656	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:31:09.668	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:31:09.715	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:34:07.411	20180717-Master USDJPY,H1: uninit reason 2
+0	00:34:07.412	20180717-Master USDJPY,H1: Server socket terminated
+0	00:34:07.414	Expert 20180717-Master USDJPY,H1: removed
+0	00:34:07.428	Expert _Lab\Winsock\(Released) 20180717\20180717-Master USDJPY,H1: loaded successfully
+0	00:34:07.461	20180717-Master USDJPY,H1: Server socket created :: 5000
+0	00:34:07.466	20180717-Master USDJPY,H1: initialized
+0	00:34:08.185	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:34:08.187	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:34:08.199	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:34:08.241	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:34:36.286	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:34:36.288	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:34:36.300	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:34:36.342	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:36:25.404	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:36:25.406	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:36:25.417	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:36:25.462	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:39:37.563	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:39:37.565	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:39:37.577	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:39:37.621	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:43:45.316	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:43:45.318	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:43:45.330	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:43:45.377	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:45:00.573	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:45:00.575	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:45:00.586	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:45:00.634	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:45:13.910	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:45:13.912	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:45:13.923	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:45:13.967	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:45:31.564	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:45:31.565	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:45:31.576	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:45:31.618	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:45:43.582	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:45:43.585	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:45:43.597	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:45:43.640	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:45:52.404	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:45:52.406	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:45:52.417	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:45:52.460	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:45:56.808	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:45:56.809	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:45:56.822	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:45:56.866	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:46:16.120	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:46:16.122	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:46:16.133	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:46:16.178	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:46:26.225	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:46:26.227	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:46:26.238	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:46:26.280	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:46:38.983	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:46:38.985	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:46:38.997	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:46:39.040	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:46:43.232	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:46:43.234	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:46:43.246	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:46:43.291	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:46:54.012	Follower-X micro XM n 12 USDJPY,H1: uninit reason 5
+0	00:46:54.015	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:46:54.035	Follower-X micro XM n 12 USDJPY,H1 inputs: exIsLastLoop=true; exMagicnumber=6666; exMagic_Mode=1; exLine0= ------------------------------------- ; exLotStart=0.01; exLotRun=1; exLotFix=3.0; exLine1= ------------------------------------- ; exPointPending=200.0; exPoint_MA_Price=20.0; exPointMA=50.0; exSpreadLimt=70.0; exLine2= ------------------------------------- ; exProfitsPoint=50; exTimeClose=3.0; exLine3= ------------------------------------- ; exLotLimit=100000.0; exUseExitLoopB=false; exSlipepage=10; 
+0	00:50:58.021	Follower-X micro XM n 12 USDJPY,H1: uninit reason 5
+0	00:50:58.024	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:50:58.044	Follower-X micro XM n 12 USDJPY,H1 inputs: exIsLastLoop=true; exMagicnumber=6666; exMagic_Mode=1; exLine0= ------------------------------------- ; exLotStart=0.01; exLotRun=2; exLotFix=3.0; exLine1= ------------------------------------- ; exPointPending=200.0; exPoint_MA_Price=20.0; exPointMA=50.0; exSpreadLimt=70.0; exLine2= ------------------------------------- ; exProfitsPoint=50; exTimeClose=3.0; exLine3= ------------------------------------- ; exLotLimit=100000.0; exUseExitLoopB=false; exSlipepage=10; 
+0	00:52:26.727	Follower-X micro XM n 12 USDJPY,H1: uninit reason 5
+0	00:52:26.730	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:52:26.748	Follower-X micro XM n 12 USDJPY,H1 inputs: exIsLastLoop=true; exMagicnumber=6666; exMagic_Mode=1; exLine0= ------------------------------------- ; exLotStart=0.01; exLotRun=1; exLotFix=3.0; exLine1= ------------------------------------- ; exPointPending=200.0; exPoint_MA_Price=20.0; exPointMA=50.0; exSpreadLimt=70.0; exLine2= ------------------------------------- ; exProfitsPoint=50; exTimeClose=3.0; exLine3= ------------------------------------- ; exLotLimit=100000.0; exUseExitLoopB=false; exSlipepage=10; 
+0	00:53:39.847	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:53:39.849	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:53:39.862	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:53:39.905	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:55:00.714	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:55:00.716	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:55:00.728	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:55:00.772	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	00:55:21.789	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	00:55:21.791	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	00:55:21.803	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	00:55:21.847	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	17:37:51.896	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	17:37:51.898	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	17:37:51.910	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	17:37:51.958	Follower-X micro XM n 12 USDJPY,H1: initialized
+0	17:54:19.727	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+0	17:54:22.162	Follower-X micro XM n 12 AUDCAD,H1 inputs: exIsLastLoop=false; exAccountSize=1; exMagicnumber=6666; exMagic_Mode=1; exLine0= ------------------------------------- ; exLotStart=0.01; exLotRun=1; exLotFix=3.0; exLine1= ------------------------------------- ; exPointPending=200.0; exPoint_MA_Price=20.0; exPointMA=50.0; exSpreadLimt=70.0; exLine2= ------------------------------------- ; exProfitsPoint=50; exTimeClose=3.0; exPowerRoot=0.0833; exLine3= ------------------------------------- ; exLotLimit=100000.0; exUseExitLoopB=false; exSlipepage=10; 
+3	17:54:22.218	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	17:54:22.218	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	17:54:25.532	Follower-X micro XM n 12 AUDCAD,H1: CHARTEVENT_KEYDOWN: 91
+0	17:54:26.537	Follower-X micro XM n 12 AUDCAD,H1: CHARTEVENT_KEYDOWN: 91
+0	17:54:36.089	Follower-X micro XM n 12 USDJPY,H1: uninit reason 2
+0	17:54:36.092	Expert Follower-X micro XM n 12 USDJPY,H1: removed
+0	17:54:36.103	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 USDJPY,H1: loaded successfully
+0	17:54:36.103	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	17:54:36.105	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	17:54:36.117	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+0	17:54:36.153	Follower-X micro XM n 12 USDJPY,H1: initialized
+3	17:54:36.168	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	17:54:36.168	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	17:54:45.513	Follower-X micro XM n 12 USDJPY,H1: uninit reason 3
+0	17:54:46.244	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	17:55:16.684	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	17:55:16.686	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	17:55:16.700	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	17:55:16.700	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	17:55:16.702	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	17:55:16.713	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	17:55:16.749	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	17:55:16.749	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	17:55:16.764	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	17:55:16.764	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	17:58:59.494	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	17:58:59.496	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	17:58:59.509	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	17:58:59.510	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	17:58:59.511	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	17:58:59.525	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	17:58:59.559	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	17:58:59.559	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	17:58:59.578	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	17:58:59.578	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	18:00:06.822	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	18:00:06.824	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	18:00:06.837	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	18:00:06.837	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	18:00:06.839	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	18:00:06.852	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	18:00:06.887	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	18:00:06.887	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	18:00:06.903	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	18:00:06.903	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	18:00:56.150	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	18:00:56.152	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	18:00:56.164	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	18:00:56.164	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	18:00:56.166	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	18:00:56.179	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	18:00:56.215	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	18:00:56.215	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	18:00:56.232	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	18:00:56.232	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	18:01:10.429	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	18:01:10.431	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	18:01:10.444	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	18:01:10.445	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	18:01:10.446	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	18:01:10.459	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	18:01:10.496	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	18:01:10.496	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	18:01:10.509	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	18:01:10.509	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	18:04:35.101	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	18:04:35.103	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	18:04:35.114	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	18:04:35.115	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	18:04:35.117	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	18:04:35.130	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	18:04:35.171	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	18:04:35.171	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	18:04:35.188	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	18:04:35.188	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	18:17:06.032	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	18:17:06.034	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	18:17:06.046	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+0	18:17:06.047	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 2
+0	18:17:06.048	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	18:17:06.059	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCAD,H1: loaded successfully
+3	18:17:06.090	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	18:17:06.090	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+3	18:17:06.103	Follower-X micro XM n 12 AUDCAD,H1: trade operations not allowed by settings
+0	18:17:06.103	Follower-X micro XM n 12 AUDCAD,H1: initialized
+0	18:21:36.039	Follower-X micro XM n 12 AUDCAD,H1: CHARTEVENT_KEYDOWN: 17
+0	18:21:36.145	Follower-X micro XM n 12 AUDCAD,H1: uninit reason 4
+0	18:21:36.150	Expert Follower-X micro XM n 12 AUDCAD,H1: removed
+0	18:21:39.849	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	18:21:39.851	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	18:21:39.862	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	18:21:39.910	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	18:21:39.910	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:11:21.599	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:11:21.601	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:11:21.614	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:11:21.661	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:11:21.661	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:49:58.593	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:49:58.595	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:49:58.608	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:49:58.653	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:49:58.653	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:51:02.577	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:51:02.579	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:51:02.590	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:51:02.635	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:51:02.635	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:51:22.305	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:51:22.307	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:51:22.318	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:51:22.364	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:51:22.364	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:51:29.260	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:51:29.262	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:51:29.273	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:51:29.314	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:51:29.314	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:51:46.650	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:51:46.652	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:51:46.663	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:51:46.712	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:51:46.712	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	19:52:15.102	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	19:52:15.104	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	19:52:15.114	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	19:52:15.158	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	19:52:15.158	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:01:34.204	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:01:34.206	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:01:34.219	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:01:34.268	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:01:34.268	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:11:47.756	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:11:47.757	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:11:47.770	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:11:47.814	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:11:47.814	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:11:58.301	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:11:58.303	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:11:58.314	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:11:58.363	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:11:58.363	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:16:36.964	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:16:36.966	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:16:36.978	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:16:37.028	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:16:37.028	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:18:51.633	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:18:51.635	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:18:51.646	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:18:51.692	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:18:51.692	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:19:40.991	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:19:40.993	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:19:41.006	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:19:41.049	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:19:41.049	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:20:30.699	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:20:30.701	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:20:30.713	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:20:30.759	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:20:30.759	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:21:47.499	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:21:47.501	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:21:47.512	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:21:47.556	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:21:47.556	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:21:49.531	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:21:49.533	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:21:49.544	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:21:49.587	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:21:49.587	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:24:05.982	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:24:05.984	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:24:05.999	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:24:06.041	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:24:06.041	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:24:11.160	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:24:11.162	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:24:11.174	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:24:11.222	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:24:11.222	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:27:54.105	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:27:54.107	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:27:54.118	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:27:54.167	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:27:54.167	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:28:53.403	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:28:53.406	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:28:53.417	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:28:53.461	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:28:53.461	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:42:08.536	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 2
+0	20:42:08.538	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
+0	20:42:08.550	Expert _Emp\_Fastwork\MN_kJo\Follower_EA\EmpFix\Follower-X micro XM n 12 AUDCADmicro,H1: loaded successfully
+3	20:42:08.592	Follower-X micro XM n 12 AUDCADmicro,H1: trade operations not allowed by settings
+0	20:42:08.593	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:49:20.470	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 6
+3	20:49:20.472	Follower-X micro XM n 12 AUDCADmicro,H1: cannot refresh history [4073]
+0	20:49:20.472	20180717-Master USDJPY,H1: uninit reason 6
+3	20:49:20.472	Follower-X micro XM n 12 AUDCADmicro,H1: unknown symbol name AUDCADmicro for OrderSend function
+0	20:49:20.472	Follower-X micro XM n 12 AUDCADmicro,H1: initialized
+0	20:49:20.472	20180717-Master USDJPY,H1: Server socket terminated
+0	20:49:20.474	20180717-Master USDJPY,H1: Server socket created :: 5001
+0	20:49:20.503	20180717-Master USDJPY,H1: initialized
+0	21:19:17.175	20180717-Master USDJPY,H1: uninit reason 9
+0	21:19:17.175	20180717-Master USDJPY,H1: Server socket terminated
+0	21:19:17.175	XMA USDJPY,H1: uninit reason 9
+0	21:19:17.180	Heiken Ashi USDJPY,H1: uninit reason 9
+0	21:19:17.180	Follower-X micro XM n 12 AUDCADmicro,H1: uninit reason 9
+0	21:19:17.229	Expert 20180717-Master USDJPY,H1: removed
+0	21:19:17.233	Custom indicator XMA USDJPY,H1: removed
+0	21:19:17.235	Custom indicator Heiken Ashi USDJPY,H1: removed
+0	21:19:17.272	Expert Follower-X micro XM n 12 AUDCADmicro,H1: removed
